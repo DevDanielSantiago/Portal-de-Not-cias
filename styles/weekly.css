@@ -32,18 +32,6 @@
   gap: 4px;
 }
 
-.c-weekly_icon {
-  width: 16px;
-  height: 16px;
-  filter: invert(90%) sepia(9%) saturate(68%) hue-rotate(180deg) brightness(92%)
-    contrast(89%);
-}
-
-.c-weekly_icon svg {
-  color: var(--text-color-secondary);
-  fill: var(--text-color-secondary);
-}
-
 .c-weekly_news {
   width: 292px;
 }

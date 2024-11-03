@@ -33,3 +33,19 @@
 .c-ads_close:hover {
   cursor: pointer;
 }
+
+.c-ads_button {
+  position: absolute;
+
+  bottom: 24px;
+  right: 32px;
+
+  width: 212px;
+  height: 42px;
+
+  border-radius: 4px;
+}
+
+.c-ads_button:hover {
+  cursor: pointer;
+}

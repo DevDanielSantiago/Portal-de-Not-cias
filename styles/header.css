@@ -15,6 +15,11 @@
   max-width: 1280px;
 }
 
+.c-header_menu:hover,
+.c-header_search:hover {
+  cursor: pointer;
+}
+
 .c-header_menu,
 .c-header_search {
   display: flex;

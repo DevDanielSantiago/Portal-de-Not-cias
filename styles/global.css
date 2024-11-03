@@ -29,3 +29,27 @@ body {
   --text-small: 500 10px/12px var(--font-family);
   --text-small-extra-bold: 800 14px/140% var(--font-family);
 }
+
+.c-button:hover {
+  cursor: pointer;
+  color: var(--brand-color-light);
+}
+
+.c-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.highlight:hover {
+  cursor: pointer;
+}
+
+.highlight--text-active:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.highlight:hover .highlight--text-active {
+  cursor: pointer;
+  text-decoration: underline;
+}
