@@ -4,7 +4,7 @@
   gap: 24px;
   grid-area: more;
 
-  border-top: 1px solid var(--text-color-secondary);
+  border-top: 1px solid var(--stroke-color);
 }
 
 .c-more_header {
